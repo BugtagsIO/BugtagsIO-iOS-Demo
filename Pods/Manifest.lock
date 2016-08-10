@@ -1,0 +1,10 @@
+PODS:
+  - BugtagsIO (1.3.0)
+
+DEPENDENCIES:
+  - BugtagsIO
+
+SPEC CHECKSUMS:
+  BugtagsIO: 5751c35b1e76610627d9dc11cf7a5f32958c91ce
+
+COCOAPODS: 0.39.0
