@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4715AC0D04E2CE20476A05AEABD045E987856CF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4715AC0D04E2CE20476A05AEABD045E987856CF5" : 0,
+    "C407B2DDF10329B7A19A79B5E1068374A381DDB0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B5B27D26-DA5F-486B-B2C6-AD46314320BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4715AC0D04E2CE20476A05AEABD045E987856CF5" : "BugtagsIO-iOS-Demo\/",
+    "C407B2DDF10329B7A19A79B5E1068374A381DDB0" : "Bugtags-iOS-Demo"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bugtags",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bugtags.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bugtags.io:BugtagsIO\/BugtagsIO-iOS-Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4715AC0D04E2CE20476A05AEABD045E987856CF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.bugtags.com:10022\/stephen\/Bugtags-Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C407B2DDF10329B7A19A79B5E1068374A381DDB0"
+    }
+  ]
+}
