@@ -1,4 +1,4 @@
-# Bugtags-iOS-Demo
+# Bugtags iOS Demo through manual Integration
 
 Improve your app quality and reliability through In-App bug reporting and crash reporting.
 
