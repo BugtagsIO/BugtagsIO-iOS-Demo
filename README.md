@@ -1,4 +1,4 @@
-Bugtags iOS Demo through CocoaPods Integration
+# Bugtags iOS Demo through CocoaPods Integration
 
 Improve your app quality and reliability through In-App bug reporting and crash reporting.
 
@@ -15,3 +15,7 @@ Automatically report and analyze crashes, no longer need to symbolicate stack tr
 ### In-App Feedback
 
 Allow your customers to send their feedback directly from within your app by just shaking their mobile devices.
+
+# License
+
+This demo is licensed under the MIT License.
