@@ -1,4 +1,4 @@
-# Bugtags iOS Demo through CocoaPods Integration
+# Bugtags iOS Demo through CocoaPods integration
 
 Improve your app quality and reliability through In-App bug reporting and crash reporting.
 
