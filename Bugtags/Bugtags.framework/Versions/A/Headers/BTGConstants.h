@@ -18,7 +18,7 @@ typedef NS_ENUM(NSInteger, BTGInvocationEvent) {
     // you can invocate the Bugtags form by calling the method [Bugtags invoke]
     BTGInvocationEventNone,
     
-    // Shaking the device to invocate the Bugtags form
+    // Shake the device to invocate the Bugtags form
     BTGInvocationEventShake,
     
     // Show a floating button on top of all views, press it to invocate the Bugtags form
