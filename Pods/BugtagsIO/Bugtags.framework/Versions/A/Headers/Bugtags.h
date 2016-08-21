@@ -3,7 +3,7 @@
 //
 //  Contains:   API for using Bugtags's SDK.
 //
-//  Version:    1.3.0
+//  Version:    1.3.1
 //
 //  Created by Bugtags on 2015-08-01.
 //
